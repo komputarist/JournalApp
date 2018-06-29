@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">JournalApp</string>
+    <string name="date">Date Placeholder</string>
     <string name="main_title">My Thoughts</string>
     <string name="main_text_hint">My Thoughts</string>
     <string name="main_button">Save Entry</string>
+    <string name="update_button">Update</string>
 
 </resources>
