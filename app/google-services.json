@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "82451396316",
+    "firebase_url": "https://journal-cf6ec.firebaseio.com",
+    "project_id": "journal-cf6ec",
+    "storage_bucket": "journal-cf6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82451396316:android:8356743b232976ab",
+        "android_client_info": {
+          "package_name": "com.codisats.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82451396316-tolqv6uskuqv7apvhk6tggcodq1u5ad2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codisats.journalapp",
+            "certificate_hash": "ff47ad761a7444c9205d78914e3419cd7e08e4c8"
+          }
+        },
+        {
+          "client_id": "82451396316-6adtu4vr1et3chi1p3diibcmc10mrpi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Ml4n1quXggq7Z9M9Cy4mQibYZNoNNYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82451396316-6adtu4vr1et3chi1p3diibcmc10mrpi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
